@@ -1,0 +1,48 @@
+{
+  "manifest_version": 2,
+  "name": "Ocean",
+  "version": "1.1",
+  "theme": {
+    "colors": {
+      "bookmark_text": "hsla(0, 0%, 100%, 1)",
+      "frame": "hsla(234, 72%, 12%, 1)",
+      "frame_inactive": "hsla(234, 72%, 12%, 1)",
+      "icons": "hsla(0, 0%, 100%, 1)",
+      "icons_attention": "hsla(220, 70%, 78%, 1)",
+      "ntp_background": "hsla(223, 95%, 3%, 1)",
+      "ntp_card_background": "hsla(220, 78%, 11%, 1)",
+      "ntp_text": "hsla(0, 0%, 100%, 1)",
+      "popup": "hsla(220, 78%, 11%, 1)",
+      "popup_border": "hsla(220, 69%, 66%, 1)",
+      "popup_highlight": "hsla(220, 89%, 69%, 0.2)",
+      "popup_highlight_text": "hsla(0, 0%, 100%, 1)",
+      "popup_text": "hsla(0, 0%, 100%, 1)",
+      "sidebar": "hsla(220, 78%, 11%, 1)",
+      "sidebar_highlight": "hsla(220, 89%, 69%, 0.2)",
+      "sidebar_highlight_text": "hsla(0, 0%, 100%, 1)",
+      "sidebar_text": "hsla(0, 0%, 100%, 1)",
+      "tab_background_text": "hsla(0, 0%, 100%, 1)",
+      "tab_line": "hsla(220, 54%, 67%, 1)",
+      "tab_loading": "hsla(220, 70%, 78%, 1)",
+      "tab_loading_inactive": "hsla(220, 70%, 78%, 1)",
+      "tab_selected": "hsla(220, 78%, 11%, 1)",
+      "tab_text": "hsla(0, 0%, 100%, 1)",
+      "toolbar": "hsla(234, 90%, 19%, 1)",
+      "toolbar_bottom_separator": "hsla(234, 72%, 12%, 1)",
+      "toolbar_field": "hsla(234, 72%, 12%, 1)",
+      "toolbar_field_border": "hsla(220, 69%, 66%, 1)",
+      "toolbar_field_focus": "hsla(220, 78%, 11%, 1)",
+      "toolbar_field_text": "hsla(0, 0%, 100%, 1)",
+      "toolbar_text": "hsla(0, 0%, 100%, 1)",
+      "toolbar_field_text_focus": "hsla(0, 0%, 100%, 1)",
+      "toolbar_field_highlight_text": "hsla(0, 0%, 100%, 1)",
+      "toolbar_top_separator": "hsla(220, 69%, 66%, 1)",
+      "panel_separator": "hsla(220, 69%, 66%, 1)"
+    },
+
+    "properties": {
+      "color_scheme": "dark",
+      "content_color_scheme": "dark"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "manifest_version": 2,
+  "name": "Magnolia",
+  "version": "1.1",
+  "theme": {
+    "colors": {
+      "bookmark_text": "hsla(0, 0%, 0%, 1)",
+      "frame": "hsla(335, 95%, 67%, 1)",
+      "frame_inactive": "hsla(335, 95%, 67%, 1)",
+      "icons": "hsla(0, 0%, 0%, 1)",
+      "icons_attention": "hsla(0, 0%, 0%, 1)",
+      "ntp_background": "hsla(331, 77%, 93%, 1)",
+      "ntp_card_background": "hsla(0, 0%, 100%, 1)",
+      "ntp_text": "hsla(0, 0%, 0%, 1)",
+      "popup": "hsla(0, 0%, 100%, 1)",
+      "popup_border": "hsla(335, 91%,75%, 1)",
+      "popup_highlight": "hsla(335, 95%, 67%, 0.4)",
+      "popup_highlight_text": "hsla(0, 0%, 0%, 1)",
+      "popup_text": "hsla(0, 0%, 0%, 1)",
+      "sidebar": "hsla(0, 0%, 100%, 1)",
+      "sidebar_highlight": "hsla(335, 95%, 67%, 0.4)",
+      "sidebar_highlight_text": "hsla(0, 0%, 0%, 1)",
+      "sidebar_text": "hsla(0, 0%, 0%, 1)",
+      "tab_background_text": "hsla(0, 0%, 0%, 1)",
+      "tab_loading": "hsla(204, 77%, 22%, 1)",
+      "tab_loading_inactive": "hsla(204, 77%, 22%, 1)",
+      "tab_selected": "hsla(0, 0%, 100%, 1)",
+      "tab_text": "hsla(0, 0%, 0%, 1)",
+      "toolbar": "hsla(335, 91%,75%, 1)",
+      "toolbar_bottom_separator": "hsla(335, 95%, 67%, 1)",
+      "toolbar_field": "hsla(335, 95%, 67%, 1)",
+      "toolbar_field_border": "hsla(335, 91%, 75%, 1)",
+      "toolbar_field_border_focus": "hsla(196, 100%, 48%, 1)",
+      "toolbar_field_focus": "hsla(0, 0%, 100%, 1)",
+      "toolbar_field_text": "hsla(0, 0%, 0%, 1)",
+      "toolbar_text": "hsla(0, 0%, 0%, 1)",
+      "toolbar_field_text_focus": "hsla(0, 0%, 0%, 1)",
+      "toolbar_field_highlight_text": "hsla(0, 0%, 0%, 1)",
+      "toolbar_top_separator": "hsla(335, 91%, 75%, 1)",
+      "panel_separator": "hsla(335, 91%,75%, 1)"
+    },
+
+    "properties": {
+      "color_scheme": "light",
+      "content_color_scheme": "light"
+    }
+  }
+}

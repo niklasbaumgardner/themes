@@ -1,0 +1,48 @@
+{
+  "manifest_version": 2,
+  "name": "Moss",
+  "version": "1.1",
+  "theme": {
+    "colors": {
+      "bookmark_text": "hsla(0, 0%, 100%, 1)",
+      "frame": "hsla(138, 16%, 30%, 1)",
+      "frame_inactive": "hsla(138, 16%, 30%, 1)",
+      "icons": "hsla(0, 0%, 100%, 1)",
+      "icons_attention": "hsla(146, 44%, 86%, 1)",
+      "ntp_background": "hsla(140, 2%, 20%, 1)",
+      "ntp_card_background": "hsla(138, 2%, 28%, 1)",
+      "ntp_text": "hsla(0, 0%, 100%, 1)",
+      "popup": "hsla(138, 2%, 28%, 1)",
+      "popup_border": "hsla(138, 8%, 48%, 1)",
+      "popup_highlight": "hsla(138, 18%, 50%, 0.42)",
+      "popup_highlight_text": "hsla(0, 0%, 100%, 1)",
+      "popup_text": "hsla(0, 0%, 100%, 1)",
+      "sidebar": "hsla(138, 2%, 28%, 1)",
+      "sidebar_highlight": "hsla(138, 18%, 50%, 0.42)",
+      "sidebar_highlight_text": "hsla(0, 0%, 100%, 1)",
+      "sidebar_text": "hsla(0, 0%, 100%, 1)",
+      "tab_background_text": "hsla(0, 0%, 100%, 1)",
+      "tab_line": "hsla(138, 8%, 48%, 1)",
+      "tab_loading": "hsla(146, 44%, 86%, 1)",
+      "tab_loading_inactive": "hsla(146, 44%, 86%, 1)",
+      "tab_selected": "hsla(138, 2%, 28%, 1)",
+      "tab_text": "hsla(0, 0%, 100%, 1)",
+      "toolbar": "hsla(138, 15%, 42%, 1)",
+      "toolbar_bottom_separator": "hsla(138, 16%, 30%, 1)",
+      "toolbar_field": "hsla(138, 16%, 30%, 1)",
+      "toolbar_field_border": "hsla(138, 8%, 48%, 1)",
+      "toolbar_field_focus": "hsla(138, 2%, 28%, 1)",
+      "toolbar_field_text": "hsla(0, 0%, 100%, 1)",
+      "toolbar_text": "hsla(0, 0%, 100%, 1)",
+      "toolbar_field_text_focus": "hsla(0, 0%, 100%, 1)",
+      "toolbar_field_highlight_text": "hsla(0, 0%, 100%, 1)",
+      "toolbar_top_separator": "hsla(138, 8%, 48%, 1)",
+      "panel_separator": "hsla(138, 8%, 48%, 1)"
+    },
+
+    "properties": {
+      "color_scheme": "dark",
+      "content_color_scheme": "dark"
+    }
+  }
+}

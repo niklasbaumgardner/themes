@@ -1,0 +1,48 @@
+{
+  "manifest_version": 2,
+  "name": "Lichen",
+  "version": "1.3",
+  "theme": {
+    "colors": {
+      "bookmark_text": "hsla(145, 6%, 20%, 1)",
+      "frame": "hsla(145, 25%, 86%, 1)",
+      "frame_inactive": "hsla(145, 25%, 86%, 1)",
+      "icons": "hsla(145, 6%, 20%, 1)",
+      "icons_attention": "hsla(145, 24%, 32%, 1)",
+      "ntp_background": "hsla(145, 27%, 97%, 1)",
+      "ntp_card_background": "hsla(0, 0%, 100%, 1)",
+      "ntp_text": "hsla(145, 6%, 20%, 1)",
+      "popup": "hsla(0, 0%, 100%, 1)",
+      "popup_border": "hsla(145, 25%, 88%, 1)",
+      "popup_highlight": "hsla(145, 25%, 86%, 0.7)",
+      "popup_highlight_text": "hsla(145, 6%, 20%, 1)",
+      "popup_text": "hsla(145, 6%, 20%, 1)",
+      "sidebar": "hsla(0, 0%, 100%, 1)",
+      "sidebar_highlight": "hsla(145, 25%, 86%, 0.7)",
+      "sidebar_highlight_text": "hsla(145, 6%, 20%, 1)",
+      "sidebar_text": "hsla(145, 6%, 20%, 1)",
+      "tab_background_text": "hsla(145, 6%, 20%, 1)",
+      "tab_line": "hsla(145, 25%, 88%, 1)",
+      "tab_loading": "hsla(145, 24%, 32%, 1)",
+      "tab_loading_inactive": "hsla(145, 24%, 32%, 1)",
+      "tab_selected": "hsla(0, 0%, 100%, 1)",
+      "tab_text": "hsla(145, 6%, 20%, 1)",
+      "toolbar": "hsla(145, 25%, 93%, 1)",
+      "toolbar_bottom_separator": "hsla(145, 25%, 86%, 1)",
+      "toolbar_field": "hsla(145, 25%, 86%, 1)",
+      "toolbar_field_border": "hsla(145, 25%, 88%, 1)",
+      "toolbar_field_focus": "hsla(0, 0%, 100%, 1)",
+      "toolbar_text": "hsla(145, 6%, 20%, 1)",
+      "toolbar_field_text": "hsla(145, 6%, 20%, 1)",
+      "toolbar_field_text_focus": "hsla(145, 6%, 20%, 1)",
+      "toolbar_field_highlight_text": "hsla(145, 6%, 20%, 1)",
+      "toolbar_top_separator": "hsla(145, 25%, 88%, 1)",
+      "panel_separator": "hsla(145, 25%, 88%, 1)"
+    },
+
+    "properties": {
+      "color_scheme": "light",
+      "content_color_scheme": "light"
+    }
+  }
+}

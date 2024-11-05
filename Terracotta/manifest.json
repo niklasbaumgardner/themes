@@ -1,0 +1,48 @@
+{
+  "manifest_version": 2,
+  "name": "Terracotta",
+  "version": "1.1",
+  "theme": {
+    "colors": {
+      "bookmark_text": "hsla(0, 0%, 100%, 1)",
+      "frame": "hsla(10, 89%, 18%, 1)",
+      "frame_inactive": "hsla(10, 89%, 18%, 1)",
+      "icons": "hsla(0, 0%, 100%, 1)",
+      "icons_attention": "hsla(10, 87%, 90%, 1)",
+      "ntp_background": "hsla(7, 97%, 1%, 1)",
+      "ntp_card_background": "hsla(10, 95%, 10%, 1)",
+      "ntp_text": "hsla(0, 0%, 100%, 1)",
+      "popup": "hsla(10, 95%, 10%, 1)",
+      "popup_border": "hsla(10, 60%, 68%, 1)",
+      "popup_highlight": "hsla(10, 85%, 36%, 0.3)",
+      "popup_highlight_text": "hsla(0, 0%, 100%, 1)",
+      "popup_text": "hsla(0, 0%, 100%, 1)",
+      "sidebar": "hsla(10, 95%, 10%, 1)",
+      "sidebar_highlight": "hsla(10, 85%, 36%, 0.3)",
+      "sidebar_highlight_text": "hsla(0, 0%, 100%, 1)",
+      "sidebar_text": "hsla(0, 0%, 100%, 1)",
+      "tab_background_text": "hsla(0, 0%, 100%, 1)",
+      "tab_line": "hsla(10, 92%, 89%, 1)",
+      "tab_loading": "hsla(10, 87%, 90%, 1)",
+      "tab_loading_inactive": "hsla(10, 87%, 90%, 1)",
+      "tab_selected": "hsla(10, 95%, 10%, 1)",
+      "tab_text": "hsla(0, 0%, 100%, 1)",
+      "toolbar": "hsla(11, 87%, 32%, 1)",
+      "toolbar_bottom_separator": "hsla(10, 89%, 18%, 1)",
+      "toolbar_field": "hsla(10, 89%, 18%, 1)",
+      "toolbar_field_border": "hsla(10, 60%, 68%, 1)",
+      "toolbar_field_focus": "hsla(10, 95%, 10%, 1)",
+      "toolbar_field_text": "hsla(0, 0%, 100%, 1)",
+      "toolbar_text": "hsla(0, 0%, 100%, 1)",
+      "toolbar_field_text_focus": "hsla(0, 0%, 100%, 1)",
+      "toolbar_field_highlight_text": "hsla(0, 0%, 100%, 1)",
+      "toolbar_top_separator": "hsla(10, 60%, 68%, 1)",
+      "panel_separator": "hsla(10, 60%, 68%, 1)"
+    },
+
+    "properties": {
+      "color_scheme": "dark",
+      "content_color_scheme": "dark"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "manifest_version": 2,
+  "name": "Lavender",
+  "version": "1.2",
+  "theme": {
+    "colors": {
+      "bookmark_text": "hsla(278, 22%, 10%, 1)",
+      "frame": "hsla(258, 49%, 84%, 1)",
+      "frame_inactive": "hsla(258, 49%, 84%, 1)",
+      "icons": "hsla(278, 22%, 10%, 1)",
+      "icons_attention": "hsla(278, 49%, 35%, 1)",
+      "ntp_background": "hsla(258, 74%, 97%, 1)",
+      "ntp_card_background": "hsla(0, 0%, 100%, 1)",
+      "ntp_text": "hsla(278, 22%, 10%, 1)",
+      "popup": "hsla(0, 0%, 100%, 1)",
+      "popup_border": "hsla(258, 72%, 43%, 1)",
+      "popup_highlight": "hsla(278, 55%, 79%, 0.3)",
+      "popup_highlight_text": "hsla(278, 22%, 10%, 1)",
+      "popup_text": "hsla(278, 22%, 10%, 1)",
+      "sidebar": "hsla(0, 0%, 100%, 1)",
+      "sidebar_highlight": "hsla(278, 55%, 79%, 0.3)",
+      "sidebar_highlight_text": "hsla(278, 22%, 10%, 1)",
+      "sidebar_text": "hsla(278, 22%, 10%, 1)",
+      "tab_background_text": "hsla(278, 22%, 10%, 1)",
+      "tab_line": "hsla(258, 72%, 43%, 1)",
+      "tab_loading": "hsla(278, 49%, 35%, 1)",
+      "tab_selected": "hsla(0, 0%, 100%, 1)",
+      "tab_text": "hsla(278, 22%, 10%, 1)",
+      "toolbar": "hsla(259, 69%, 94%, 1)",
+      "toolbar_bottom_separator": "hsla(258, 49%, 84%, 1)",
+      "toolbar_field": "hsla(258, 49%, 84%, 1)",
+      "toolbar_field_border": "hsla(258, 72%, 43%, 1)",
+      "toolbar_field_focus": "hsla(0, 0%, 100%, 1)",
+      "toolbar_field_text": "hsla(278, 22%, 10%, 1)",
+      "toolbar_text": "hsla(278, 22%, 10%, 1)",
+      "toolbar_field_text_focus": "hsla(278, 22%, 10%, 1)",
+      "toolbar_field_highlight_text": "hsla(278, 22%, 10%, 1)",
+      "toolbar_top_separator": "hsla(258, 72%, 43%, 1)",
+      "tab_loading_inactive": "hsla(278, 49%, 35%, 1)",
+      "panel_separator": "hsla(258, 72%, 43%, 1)"
+    },
+
+    "properties": {
+      "color_scheme": "light",
+      "content_color_scheme": "light"
+    }
+  }
+}
